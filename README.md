@@ -1,5 +1,6 @@
 # Scaffolding Collections
 Scaffolding definition: How to interact with the models.
+
 Other Definition:
 - Procedure vs Programmable Agent: Procedure agent follow a predefined sequence of actions while programmable doesn't.
 - Interactive Agent Tools (IAT): Tools to enhance the agent to interact with the environment on top of the terminal output.
