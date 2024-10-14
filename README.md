@@ -1,4 +1,4 @@
-# Scaffolding Collections
+# Scaffolding Collection
 
 We collect popular scaffoldings here for reference. Usually the scaffoldings have more than 500 star in Github or are mentioned in some famous papers.
 
