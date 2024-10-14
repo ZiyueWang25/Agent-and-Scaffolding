@@ -1,7 +1,9 @@
 # Scaffolding Collections
-Scaffolding definition: How to interact with the models.
 
-Other Definition:
+We collect popular scaffoldings here for reference. Usually the scaffoldings have more than 500 star in Github or are mentioned in some famous papers.
+
+# Definition
+- Scaffolding: How to interact with the models to achieve a goal.
 - Procedure vs Programmable Agent: Procedure agent follow a predefined sequence of actions while programmable doesn't.
 - Interactive Agent Tools (IAT): Tools to enhance the agent to interact with the environment on top of the terminal output.
 
@@ -13,3 +15,8 @@ Other Definition:
 
 ## CyberSecurity
 - [EnIGMA](https://enigma-agent.com/): Programmable Agent with IAT, Summarizers, Demonstrations and Cybersecurity Tools on NYU CTF, InterCode and HTB.
+
+## General
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands): a generalist agent development framework for code generation and software engineering that includes Python code interpreter, bash shell, and web browser.
+- [Swarm](https://github.com/openai/swarm): lightweight multi-agent orchestration from OpenAI.
+- [CodeAct](https://github.com/xingyaoww/code-act): SFT technique that uses executable code to consolidate LLM agents’ actions into a unified action space.
